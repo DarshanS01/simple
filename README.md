@@ -1,5 +1,5 @@
 # simple
-this is a simple program
+program to find if num is odd or even
  num=int(input("enter the number"))
  if num%2==0;
  print ("even")
