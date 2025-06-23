@@ -7,3 +7,4 @@ program to find if num is odd or even
  print("odd")
 
 print("excecuted")
+print("thank u")
